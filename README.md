@@ -13,4 +13,6 @@ Bunlar arasında **RFM Analysis (RFM Analizi)**,**CLTV (Müşteri Yaşam Boyu De
 
 CaseStudy 1. -- [Case_study_1_Flo_RFM](https://github.com/turanimre/CRM-Analytics/blob/main/Case_study_1_Flo_RFM.py)🔗
 
-CaseStudy 2. -- [Case_study_2_FLO_CLTV](https://github.com/turanimre/CRM-Analytics/blob/main/Case_study_2_FLO_CLTV.py)🔗
+CaseStudy 2. -- [Case_study_2_FLO_CLTV](https://github.com/turanimre/CRM-Analytics/blob/main/Case_study_2_FLO_CLTV.py)
+
+## [Bootcamp All Contents](https://github.com/turanimre/VBO_datascience_bootcamp)🔗
